@@ -1,6 +1,6 @@
 {
   "$schema": "file:///E:/MushroomLauncher/schemas/DistroMetaSchema.schema.json",
   "meta": {
-    "rss": "https://raw.githubusercontent.com/felixgoff/MushroomLifesteal/refs/heads/main/rss.xml"
+    "rss": "https://felixgoff.github.io/MushroomsLifesteal/rss.xml"
   }
 }
