@@ -20,7 +20,7 @@
           "artifact": {
             "size": 1944103,
             "MD5": "eee78db537e19297a4a5966bdad51291",
-            "url": "http://localhost:8080/repo/lib/net/fabricmc/fabric-loader/0.18.1/fabric-loader-0.18.1.jar"
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/repo/lib/net/fabricmc/fabric-loader/0.18.1/fabric-loader-0.18.1.jar"
           },
           "subModules": [
             {
@@ -30,7 +30,7 @@
               "artifact": {
                 "size": 2850,
                 "MD5": "35bc3721077924b6dbd25d190df7bb52",
-                "url": "http://localhost:8080/repo/versions/1.21.10-fabric-0.18.1/1.21.10-fabric-0.18.1.json"
+                "url": "https://felixgoff.github.io/MushroomsLifesteal/repo/versions/1.21.10-fabric-0.18.1/1.21.10-fabric-0.18.1.json"
               }
             },
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 126122,
                 "MD5": "6d1dd0482c03a6dc1807d9d004456021",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
+                "url": "https://felixgoff.github.io/MushroomsLifesteal/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 35149,
                 "MD5": "f07383cfbd50f097558341a03b8871e1",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
+                "url": "https://felixgoff.github.io/MushroomsLifesteal/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 74348,
                 "MD5": "8103b3de8f48fb4c7f97efdaa46ce809",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
+                "url": "https://felixgoff.github.io/MushroomsLifesteal/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 51947,
                 "MD5": "912eeaba1a63d574ffc66c651c7c6725",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
+                "url": "https://felixgoff.github.io/MushroomsLifesteal/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 94565,
                 "MD5": "ef5e90e736cd09bc407c1d46a3faba0f",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
+                "url": "https://felixgoff.github.io/MushroomsLifesteal/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 1504519,
                 "MD5": "798c8c25fb84d91b384bdee442c249d7",
-                "url": "http://localhost:8080/repo/lib/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar"
+                "url": "https://felixgoff.github.io/MushroomsLifesteal/repo/lib/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 778652,
                 "MD5": "612031a185c7493cc93e908a875b72cc",
-                "url": "http://localhost:8080/repo/lib/net/fabricmc/intermediary/1.21.10/intermediary-1.21.10.jar"
+                "url": "https://felixgoff.github.io/MushroomsLifesteal/repo/lib/net/fabricmc/intermediary/1.21.10/intermediary-1.21.10.jar"
               }
             }
           ]
