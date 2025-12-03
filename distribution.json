@@ -1,12 +1,12 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "rss": "https://felixgoff.github.io/MushroomsLifesteal/rss.xml",
   "servers": [
     {
       "id": "MushroomLifesteal-1.21.10",
-      "name": "MushroomLifesteal (Minecraft 1.21.10)",
-      "description": "MushroomLifesteal Running Minecraft 1.21.10 (Fabric v0.18.1)",
-      "icon": null,
+      "name": "Mushrooms Lifesteal",
+      "description": "Lifesteal-Based Mushrooms Server",
+      "icon": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/bb6ddd42691d526fcec71880dfbd8a04.jpg",
       "version": "1.0.1",
       "address": "localhost:25565",
       "minecraftVersion": "1.21.10",
@@ -328,9 +328,9 @@
           "name": "Immersive Winds",
           "type": "FabricMod",
           "artifact": {
-            "size": 2276090,
-            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/immersive-winds-1.21.4-0.9.jar",
-            "MD5": "c77b488a11b395dc4d771225d368e3fa"
+            "size": 2286051,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/immersive-winds-1.21.10-0.9.jar",
+            "MD5": "93b5d1c0fca52669bcc26ba29ec68113"
           },
           "required": {
             "value": false

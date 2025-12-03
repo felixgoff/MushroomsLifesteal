@@ -2,8 +2,8 @@
   "$schema": "file:///E:/MushroomLauncher/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.1",
-    "name": "MushroomLifesteal (Minecraft 1.21.10)",
-    "description": "MushroomLifesteal Running Minecraft 1.21.10 (Fabric v0.18.1)",
+    "name": "Mushrooms Lifesteal",
+    "description": "Lifesteal-Based Mushrooms Server",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
     "address": "localhost:25565",
     "mainServer": true,
