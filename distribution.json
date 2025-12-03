@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.8",
   "rss": "https://felixgoff.github.io/MushroomsLifesteal/rss.xml",
   "servers": [
     {
@@ -324,19 +324,6 @@
           }
         },
         {
-          "id": "net.vibzz.immersivewind.wind:immersivewind:0.9@jar",
-          "name": "Immersive Winds",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 2286051,
-            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/immersive-winds-1.21.10-0.9.jar",
-            "MD5": "93b5d1c0fca52669bcc26ba29ec68113"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "generated.fabricmod:iris:1.9.6+mc1.21.9@jar",
           "name": "Iris",
           "type": "FabricMod",
@@ -427,6 +414,16 @@
             "size": 1241170,
             "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/owo-lib-0.12.24+1.21.9.jar",
             "MD5": "5c38846d7a7def37043b2742831521fb"
+          }
+        },
+        {
+          "id": "pigcart.particlerain.loaders:particlerain:4.0.0-beta.3+1.21.9-fabric@jar",
+          "name": "Particle Rain",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 591623,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/particlerain-4.0.0-beta.3+1.21.9-fabric.jar",
+            "MD5": "d532ffb5aaee3e123fde99be5596bdd7"
           }
         },
         {
