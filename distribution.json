@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
+  "version": "1.1.0",
   "rss": "https://felixgoff.github.io/MushroomsLifesteal/rss.xml",
   "servers": [
     {
@@ -245,6 +245,20 @@
             "size": 481243,
             "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/entityculling-fabric-1.9.3-mc1.21.10.jar",
             "MD5": "7387a8f1c0c14a995a074a38183cce5a"
+          }
+        },
+        {
+          "id": "generated.fabricmod:essential-container:1.0.0@jar",
+          "name": "Essential-container",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 55214076,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionaloff/Essential_1-3-10-3_fabric_1-21-10.jar",
+            "MD5": "711d918e2a280988056961581632f328"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -520,6 +534,19 @@
             "size": 1676903,
             "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/sodium-fabric-0.7.3+mc1.21.10.jar",
             "MD5": "57a54742a51ae95bdc47e83f7245a9e2"
+          }
+        },
+        {
+          "id": "com.sonicether.soundphysics:sound_physics_remastered:1.21.10-1.5.1@jar",
+          "name": "Sound Physics Remastered",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 206479,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/sound-physics-remastered-fabric-1.21.10-1.5.1.jar",
+            "MD5": "473959c58eb7bf978c8f6ff77bfe93c7"
+          },
+          "required": {
+            "value": false
           }
         },
         {
