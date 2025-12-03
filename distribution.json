@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "rss": "https://felixgoff.github.io/MushroomsLifesteal/rss.xml",
   "servers": [
     {
@@ -447,6 +447,16 @@
             "size": 82444,
             "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/reeses-sodium-options-fabric-1.8.6+mc1.21.10.jar",
             "MD5": "6d7836317856c34562da177d09ad69b3"
+          }
+        },
+        {
+          "id": "dev.dediamondpro:resourcify:1.7.5@jar",
+          "name": "Resourcify",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2539144,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/Resourcify%20(1.21.10-fabric)-1.7.5.jar",
+            "MD5": "f25ef93199fa78ecc9f90cb9f8c1115e"
           }
         },
         {
