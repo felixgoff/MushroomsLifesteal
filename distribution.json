@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "rss": "https://felixgoff.github.io/MushroomsLifesteal/rss.xml",
   "servers": [
     {
@@ -451,6 +451,29 @@
           }
         },
         {
+          "id": "su.plo.voice:plasmovoice:2.1.7+c9fe3b7-SNAPSHOT@jar",
+          "name": "Plasmo Voice",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 12196252,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/plasmovoice-fabric-1.21.9-2.1.7+c9fe3b7-SNAPSHOT.jar",
+            "MD5": "d45c6467d35ba7a87dbc5f5bf7a07d7a"
+          }
+        },
+        {
+          "id": "su.plo.voice.soundphysics:pv-addon-soundphysics:1.1.2@jar",
+          "name": "Pv-addon-soundphysics",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 16176,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/pv-addon-soundphysics-1.1.2.jar",
+            "MD5": "11288e50e45acd4a8f463051c26840d8"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "generated.fabricmod:reeses-sodium-options:1.8.6+mc1.21.10@jar",
           "name": "Reese's Sodium Options",
           "type": "FabricMod",
@@ -580,16 +603,6 @@
           },
           "required": {
             "value": false
-          }
-        },
-        {
-          "id": "de.maxhenkel:voicechat:1.21.10-2.6.6@jar",
-          "name": "Simple Voice Chat",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 5500902,
-            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/voicechat-fabric-1.21.10-2.6.6.jar",
-            "MD5": "f2900264d88e55135026c4b3694991be"
           }
         },
         {
