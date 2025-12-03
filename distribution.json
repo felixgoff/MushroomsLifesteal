@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "rss": "https://felixgoff.github.io/MushroomsLifesteal/rss.xml",
   "servers": [
     {
@@ -407,6 +407,16 @@
             "size": 249687,
             "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/NoChatReports-FABRIC-1.21.10-v2.16.0.jar",
             "MD5": "bde05c509c547c9214eb4c50e1387086"
+          }
+        },
+        {
+          "id": "io.wispforest:owo:0.12.24+1.21.9@jar",
+          "name": "Oωo",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1241170,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/owo-lib-0.12.24+1.21.9.jar",
+            "MD5": "5c38846d7a7def37043b2742831521fb"
           }
         },
         {
