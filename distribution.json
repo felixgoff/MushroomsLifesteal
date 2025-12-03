@@ -8,7 +8,7 @@
       "description": "Lifesteal-Based Mushrooms Server",
       "icon": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/bb6ddd42691d526fcec71880dfbd8a04.jpg",
       "version": "1.0.1",
-      "address": "localhost:25565",
+      "address": "83.249.226.36:25565",
       "minecraftVersion": "1.21.10",
       "mainServer": true,
       "autoconnect": true,
