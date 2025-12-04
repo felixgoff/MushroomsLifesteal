@@ -1,5 +1,5 @@
 {
-  "version": "1.1.7",
+  "version": "1.1.8",
   "rss": "https://felixgoff.github.io/MushroomsLifesteal/rss.xml",
   "servers": [
     {
@@ -208,6 +208,19 @@
             "size": 20146,
             "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/BGMSync-1.0.0.jar",
             "MD5": "5607149b40b7e064c2a44b86d5a155a6"
+          }
+        },
+        {
+          "id": "com.ishland:c2me:0.3.5.1.0+1.21.10@jar",
+          "name": "Concurrent Chunk Management Engine",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 4700568,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/c2me-fabric-mc1.21.10-0.3.5.1.0.jar",
+            "MD5": "2c561e9abc941d1c7d141f8a7be66b1e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -446,19 +459,6 @@
           }
         },
         {
-          "id": "it.hurts.shatterbyte:immersiveui:0.3.5@jar",
-          "name": "ImmersiveUI",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 211018,
-            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/ImmersiveUI-FABRIC-0.3.5+1.21.9.jar",
-            "MD5": "0c60bdf0975ebc97f1c3895242fa4eb0"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "generated.fabricmod:iris:1.9.6+mc1.21.9@jar",
           "name": "Iris",
           "type": "FabricMod",
@@ -569,6 +569,19 @@
             "size": 349186,
             "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/moreculling-fabric-1.21.9-1.5.0-beta.2.jar",
             "MD5": "ffa02716c7b44aca966f5732634bb027"
+          }
+        },
+        {
+          "id": "yalter.mousetweaks:mousetweaks:2.29@jar",
+          "name": "Mouse Tweaks",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 76252,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/MouseTweaks-fabric-mc1.21.9-2.29.jar",
+            "MD5": "7346eaff1bda19b87303e292d2deaeba"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -727,6 +740,20 @@
           }
         },
         {
+          "id": "me.shedaniel.rei.impl.init:roughlyenoughitems:21.9.812@jar",
+          "name": "Roughly Enough Items",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2468603,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionaloff/RoughlyEnoughItems-21.9.812-fabric.jar",
+            "MD5": "99e7a6a96944f5405137eda96d6e4c20"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "ca.spottedleaf.starlight:scalablelux:0.1.6+fabric.c25518a@jar",
           "name": "ScalableLux",
           "type": "FabricMod",
@@ -770,6 +797,20 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "dev.tr7zw.skinlayers:skinlayers3d:1.9.2@jar",
+          "name": "3d-Skin-Layers",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 869804,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionaloff/skinlayers3d-fabric-1.9.2-mc1.21.10.jar",
+            "MD5": "3f18522bb1934d647fd218d87992512f"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -900,6 +941,34 @@
             "size": 5500902,
             "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/voicechat-fabric-1.21.10-2.6.6.jar",
             "MD5": "f2900264d88e55135026c4b3694991be"
+          }
+        },
+        {
+          "id": "dev.tr7zw:waveycapes:1.8.0@jar",
+          "name": "WaveyCapes",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1833583,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionaloff/waveycapes-fabric-1.8.0-mc1.21.10.jar",
+            "MD5": "8dde252316f450a9c56e74ed395ec56b"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "xaero.minimap:xaerominimap:25.2.15@jar",
+          "name": "Xaero's Minimap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1695560,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionaloff/Xaeros_Minimap_25.2.15_Fabric_1.21.9.jar",
+            "MD5": "9c111acddf54739c9c41e64aba3dc0a3"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
