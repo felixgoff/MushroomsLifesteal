@@ -1,5 +1,5 @@
 {
-  "version": "1.1.6",
+  "version": "1.1.7",
   "rss": "https://felixgoff.github.io/MushroomsLifesteal/rss.xml",
   "servers": [
     {
@@ -373,20 +373,6 @@
           }
         },
         {
-          "id": "generated.fabricmod:essential-container:1.0.0@jar",
-          "name": "Essential-container",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 55214076,
-            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionaloff/Essential_1-3-10-3_fabric_1-21-10.jar",
-            "MD5": "711d918e2a280988056961581632f328"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },
-        {
           "id": "generated.fabricmod:fabric-api:0.138.3+1.21.10@jar",
           "name": "Fabric API",
           "type": "FabricMod",
@@ -688,16 +674,6 @@
           }
         },
         {
-          "id": "su.plo.voice:plasmovoice:2.1.7+c9fe3b7-SNAPSHOT@jar",
-          "name": "Plasmo Voice",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 12196252,
-            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/plasmovoice-fabric-1.21.9-2.1.7+c9fe3b7-SNAPSHOT.jar",
-            "MD5": "d45c6467d35ba7a87dbc5f5bf7a07d7a"
-          }
-        },
-        {
           "id": "eu.ha3:presencefootsteps:1.12.2+1.21.10@jar",
           "name": "Presence Footsteps",
           "type": "FabricMod",
@@ -728,16 +704,6 @@
             "size": 1081298,
             "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/PuzzlesLib-v21.10.8+mc1.21.10-Fabric.jar",
             "MD5": "fd483b964c9ce8bfa7b541d2b0254acb"
-          }
-        },
-        {
-          "id": "su.plo.voice.soundphysics:pv-addon-soundphysics:1.1.2@jar",
-          "name": "Pv-addon-soundphysics",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 16176,
-            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/pv-addon-soundphysics-1.1.2.jar",
-            "MD5": "11288e50e45acd4a8f463051c26840d8"
           }
         },
         {
@@ -927,16 +893,13 @@
           }
         },
         {
-          "id": "fuzs.visualworkbench:visualworkbench:21.10.0@jar",
-          "name": "Visual Workbench",
+          "id": "de.maxhenkel:voicechat:1.21.10-2.6.6@jar",
+          "name": "Simple Voice Chat",
           "type": "FabricMod",
           "artifact": {
-            "size": 67094,
-            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/VisualWorkbench-v21.10.0+mc1.21.10-Fabric.jar",
-            "MD5": "42669c47fe902f79f30d9af2648a0195"
-          },
-          "required": {
-            "value": false
+            "size": 5500902,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/voicechat-fabric-1.21.10-2.6.6.jar",
+            "MD5": "f2900264d88e55135026c4b3694991be"
           }
         },
         {
