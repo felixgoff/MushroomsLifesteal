@@ -1,5 +1,5 @@
 {
-  "version": "1.1.8",
+  "version": "1.1.9",
   "rss": "https://felixgoff.github.io/MushroomsLifesteal/rss.xml",
   "servers": [
     {
@@ -133,6 +133,19 @@
             "size": 52334,
             "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/AmbientEnvironment-fabric-1.21.10-27.0.0.2.jar",
             "MD5": "bf670ce2e7c1222944769162e84b0b1b"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "squeek.appleskin:appleskin:3.0.7+mc1.21.9@jar",
+          "name": "AppleSkin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1094185,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/appleskin-fabric-mc1.21.9-3.0.7.jar",
+            "MD5": "bfe38a283ee7e6a0e64f1873d24968df"
           },
           "required": {
             "value": false
