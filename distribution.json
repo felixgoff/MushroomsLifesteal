@@ -1,5 +1,5 @@
 {
-  "version": "1.1.4",
+  "version": "1.1.5",
   "rss": "https://felixgoff.github.io/MushroomsLifesteal/rss.xml",
   "servers": [
     {
@@ -201,6 +201,26 @@
           }
         },
         {
+          "id": "com.bgmsync:bgmsync:1.0.0@jar",
+          "name": "BGMSync",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 20146,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/BGMSync-1.0.0.jar",
+            "MD5": "5607149b40b7e064c2a44b86d5a155a6"
+          }
+        },
+        {
+          "id": "me.chrr:camerapture:1.10.8@jar",
+          "name": "Camerapture",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3496648,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/Camerapture-1.10.8+mc1.21.9-fabric.jar",
+            "MD5": "a9b6adf2f45856b1fb36b92f4c57b148"
+          }
+        },
+        {
           "id": "net.litetex.capes:cape-provider:4.1.3@jar",
           "name": "Cape Provider",
           "type": "FabricMod",
@@ -241,6 +261,16 @@
             "size": 994514,
             "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/continuity-3.0.1-beta.2+1.21.10.jar",
             "MD5": "8b3d04df15d3661238d0174e3d50b0df"
+          }
+        },
+        {
+          "id": "fuzs.cutthrough:cutthrough:21.10.0@jar",
+          "name": "Cut Through",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 26639,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/CutThrough-v21.10.0+mc1.21.10-Fabric.jar",
+            "MD5": "45e5b81c297557235e0a07c40ef42564"
           }
         },
         {
@@ -404,16 +434,6 @@
             "size": 2300364,
             "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/fzzy_config-0.7.3+1.21.9.jar",
             "MD5": "4e38498d9866f646a2beba5fb63e86ce"
-          }
-        },
-        {
-          "id": "glitchcore.fabric.core:glitchcore:21.10.0.4@jar",
-          "name": "GlitchCore",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 341035,
-            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/GlitchCore-fabric-1.21.10-21.10.0.4.jar",
-            "MD5": "17ca085a9f88bccb4055c8ce61d90ca8"
           }
         },
         {
@@ -725,16 +745,6 @@
           }
         },
         {
-          "id": "generated.fabricmod:sereneseasons:21.10.0.0@jar",
-          "name": "SereneSeasons",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 392695,
-            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/SereneSeasons-fabric-1.21.10-21.10.0.0.jar",
-            "MD5": "d33c2e2fda0fca6a83f4a74397e33530"
-          }
-        },
-        {
           "id": "it.hurts.shatterbyte:shatterlib:0.6.0.5@jar",
           "name": "ShatterLib",
           "type": "FabricMod",
@@ -771,16 +781,6 @@
           }
         },
         {
-          "id": "dev.imb11:snowundertrees:2.7.4+1.21.9@jar",
-          "name": "Snow Under Trees",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 2317360,
-            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/SnowUnderTrees-2.7.4+1.21.9.jar",
-            "MD5": "85100ef4bfa9c53b0f4c715b065c4b55"
-          }
-        },
-        {
           "id": "generated.fabricmod:sodium-extra:0.7.1+mc1.21.10@jar",
           "name": "Sodium Extra",
           "type": "FabricMod",
@@ -811,16 +811,6 @@
           }
         },
         {
-          "id": "dev.imb11.sounds.loaders:sounds:2.4.19+edge@jar",
-          "name": "Sounds",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 8138115,
-            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/sounds-2.4.19+edge+1.21.10-fabric.jar",
-            "MD5": "b60b2d241481bddc98540a33a043c4fa"
-          }
-        },
-        {
           "id": "io.github.a5b84.statuseffectbars:status-effect-bars:1.0.9@jar",
           "name": "Status Effect Bars",
           "type": "FabricMod",
@@ -828,6 +818,19 @@
             "size": 48726,
             "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/status-effect-bars-1.0.9.jar",
             "MD5": "ed78ee7bdc13ce23ddd0e8668d03d1ca"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "einstein.subtle_effects:subtle_effects:1.13.2-hotfix.1@jar",
+          "name": "Subtle Effects",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3254913,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/SubtleEffects-fabric-1.21.10-1.13.2-hotfix.1.jar",
+            "MD5": "a67de9ec40bb4aff481aaf2d20247011"
           },
           "required": {
             "value": false
@@ -844,16 +847,30 @@
           }
         },
         {
+          "id": "me.zipestudio:talkingheads:1.0.9+1.21.10@jar",
+          "name": "Talking Heads",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 282435,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/TalkingHeads-1.0.9+1.21.10.jar",
+            "MD5": "ce393c05adefe7b49efea053cc6e4364"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "net.uku3lig:totemcounter:1.10.0+mc1.21.9@jar",
           "name": "TotemCounter",
           "type": "FabricMod",
           "artifact": {
             "size": 71004,
-            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/totemcounter-1.10.0+mc1.21.9.jar",
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionaloff/totemcounter-1.10.0+mc1.21.9.jar",
             "MD5": "80ac02684509bb28479f5886e444d3cd"
           },
           "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         },
         {
@@ -891,6 +908,19 @@
             "size": 80967,
             "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/visuality-0.7.11+1.21.9.jar",
             "MD5": "b467c2074ba3ae71b339f21efe81ea25"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "fuzs.visualworkbench:visualworkbench:21.10.0@jar",
+          "name": "Visual Workbench",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 67094,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/VisualWorkbench-v21.10.0+mc1.21.10-Fabric.jar",
+            "MD5": "42669c47fe902f79f30d9af2648a0195"
           },
           "required": {
             "value": false
