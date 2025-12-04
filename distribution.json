@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "rss": "https://felixgoff.github.io/MushroomsLifesteal/rss.xml",
   "servers": [
     {
@@ -126,6 +126,32 @@
           }
         },
         {
+          "id": "com.blamejared:ambientenvironment:27.0.0.2@jar",
+          "name": "AmbientEnvironment",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 52334,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/AmbientEnvironment-fabric-1.21.10-27.0.0.2.jar",
+            "MD5": "bf670ce2e7c1222944769162e84b0b1b"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.fabricmod:bettergrassify:1.8.2+fabric.1.21.10@jar",
+          "name": "BetterGrassify",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 76062,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/BetterGrassify-1.8.2+fabric.1.21.10.jar",
+            "MD5": "df596e59bf0b9a9d14a894ab4ec1c20e"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "generated.fabricmod:bettermounthud:1.2.6@jar",
           "name": "Better Mount HUD",
           "type": "FabricMod",
@@ -136,16 +162,6 @@
           },
           "required": {
             "value": false
-          }
-        },
-        {
-          "id": "generated.fabricmod:biomesoplenty:21.10.0.3@jar",
-          "name": "BiomesOPlenty",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 22977060,
-            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/BiomesOPlenty-fabric-1.21.10-21.10.0.3.jar",
-            "MD5": "7a5f2b2336789eda1ab8f8323ff8d185"
           }
         },
         {
@@ -197,8 +213,28 @@
           "type": "FabricMod",
           "artifact": {
             "size": 81623,
-            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/cwb-fabric-3.0.0+mc1.21.5.jar",
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/cwb-fabric-3.0.0+mc1.21.5.jar",
             "MD5": "d29e2d0d27179c62638f2b79e857ba14"
+          }
+        },
+        {
+          "id": "dev.isxander:debugify:1.21.10+1.1@jar",
+          "name": "Debugify",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 383013,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/debugify-1.21.10+1.1.jar",
+            "MD5": "1d2953bdae84ca6693889681dd258117"
+          }
+        },
+        {
+          "id": "com.supermartijn642:durabilitytooltip:1.1.6@jar",
+          "name": "Durability Tooltip",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 21358,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/durabilitytooltip-1.1.6-fabric-mc1.21.jar",
+            "MD5": "2023920e04855a6712cb1023b544a915"
           },
           "required": {
             "value": false
@@ -210,8 +246,18 @@
           "type": "FabricMod",
           "artifact": {
             "size": 197178,
-            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/dynamic-fps-3.10.1+minecraft-1.21.9-fabric.jar",
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/dynamic-fps-3.10.1+minecraft-1.21.9-fabric.jar",
             "MD5": "c819350e498137778e06882433614f75"
+          }
+        },
+        {
+          "id": "net.darkhax.enchdesc.fabric.impl:enchdesc:21.10.1@jar",
+          "name": "EnchantmentDescriptions",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 82034,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/enchdesc-fabric-1.21.10-21.10.1.jar",
+            "MD5": "6c265ce1d39a5eef800ba307cd690614"
           },
           "required": {
             "value": false
@@ -282,13 +328,13 @@
           }
         },
         {
-          "id": "me.contaria:fastquit:3.1.2+mc1.21.10@jar",
-          "name": "FastQuit",
+          "id": "randommcsomethin.fallingleaves:fallingleaves:2.0.2@jar",
+          "name": "Falling Leaves",
           "type": "FabricMod",
           "artifact": {
-            "size": 61209,
-            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/fastquit-3.1.2+mc1.21.10.jar",
-            "MD5": "e3e04732fce05ac785cd43866d9c044e"
+            "size": 182261,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/fallingleaves-2.0.2+1.21.9.jar",
+            "MD5": "d061df9bbef39ffd200f7e62e3c61941"
           },
           "required": {
             "value": false
@@ -302,6 +348,16 @@
             "size": 79573,
             "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/ferritecore-8.0.2-fabric.jar",
             "MD5": "3fccc3293645a624bc2d67cb811e79fe"
+          }
+        },
+        {
+          "id": "fuzs.forgeconfigapiport.fabric.impl:forgeconfigapiport:21.10.1@jar",
+          "name": "Forge Config API Port",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 615376,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/ForgeConfigAPIPort-v21.10.1+mc1.21.10-Fabric.jar",
+            "MD5": "4804d13c574546ff0acb7b3f870340d1"
           }
         },
         {
@@ -330,8 +386,18 @@
           "type": "FabricMod",
           "artifact": {
             "size": 196440,
-            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/ImmediatelyFast-Fabric-1.13.2+1.21.10.jar",
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/ImmediatelyFast-Fabric-1.13.2+1.21.10.jar",
             "MD5": "7f383fe0efefb271607f5dccf8670f5a"
+          }
+        },
+        {
+          "id": "it.hurts.shatterbyte:immersiveui:0.3.5@jar",
+          "name": "ImmersiveUI",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 211018,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/ImmersiveUI-FABRIC-0.3.5+1.21.9.jar",
+            "MD5": "0c60bdf0975ebc97f1c3895242fa4eb0"
           },
           "required": {
             "value": false
@@ -348,6 +414,16 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "me.steinborn.krypton.mod.shared:krypton:0.2.10@jar",
+          "name": "Krypton",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 270195,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/krypton-0.2.10.jar",
+            "MD5": "f804ed489b36dd0b011b92b50e5c2119"
           }
         },
         {
@@ -368,6 +444,46 @@
             "size": 835455,
             "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/lithium-fabric-0.20.1+mc1.21.10.jar",
             "MD5": "33ccbe4494ec33799c8a16d747071cd4"
+          }
+        },
+        {
+          "id": "net.tschipcraft:make_bubbles_pop:0.3.2-fabric@jar",
+          "name": "Make Bubbles Pop",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 30571,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/make_bubbles_pop-0.3.2-fabric-mc1.21.9-1.21.10.jar",
+            "MD5": "edec2cf40c09b781ea0c8b1dac013c50"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "fi.dy.masa:malilib:0.26.6@jar",
+          "name": "MaLiLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1509212,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/malilib-fabric-1.21.10-0.26.6.jar",
+            "MD5": "9f624019e8c0d35c6c8c7fd8759a0886"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "fi.dy.masa:minihud:0.37.4@jar",
+          "name": "MiniHUD",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 822976,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionaloff/minihud-fabric-1.21.10-0.37.4.jar",
+            "MD5": "0c8e652df101032fdab2ffcf6e1a2a3c"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -421,6 +537,19 @@
           }
         },
         {
+          "id": "dev.tr7zw:notenoughanimations:1.10.6@jar",
+          "name": "NotEnoughAnimations",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 841908,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/notenoughanimations-fabric-1.10.6-mc1.21.10.jar",
+            "MD5": "b5d7a4c90452100e5d12707ab8c33517"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "io.wispforest:owo:0.12.24+1.21.9@jar",
           "name": "Oωo",
           "type": "FabricMod",
@@ -438,6 +567,19 @@
             "size": 591623,
             "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/particlerain-4.0.0-beta.3+1.21.9-fabric.jar",
             "MD5": "d532ffb5aaee3e123fde99be5596bdd7"
+          }
+        },
+        {
+          "id": "fuzs.pickupnotifier:pickupnotifier:21.10.0@jar",
+          "name": "Pick Up Notifier",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 76735,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/PickUpNotifier-v21.10.0+mc1.21.10-Fabric.jar",
+            "MD5": "17a1a7177b9636e091d0620763ce3223"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -461,16 +603,46 @@
           }
         },
         {
+          "id": "eu.ha3:presencefootsteps:1.12.2+1.21.10@jar",
+          "name": "Presence Footsteps",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 5754184,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/PresenceFootsteps-1.12.2+1.21.10.jar",
+            "MD5": "cacfff9013dfe5c76a0a6a3f44b7b55c"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.darkhax.pricklemc.fabric.impl:prickle:21.10.2@jar",
+          "name": "PrickleMC",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 87255,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/prickle-fabric-1.21.10-21.10.2.jar",
+            "MD5": "8cb33aa22c2ac7492679177f17b4b06f"
+          }
+        },
+        {
+          "id": "fuzs.puzzleslib.fabric.impl:puzzleslib:21.10.8@jar",
+          "name": "Puzzles Lib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1081298,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/PuzzlesLib-v21.10.8+mc1.21.10-Fabric.jar",
+            "MD5": "fd483b964c9ce8bfa7b541d2b0254acb"
+          }
+        },
+        {
           "id": "su.plo.voice.soundphysics:pv-addon-soundphysics:1.1.2@jar",
           "name": "Pv-addon-soundphysics",
           "type": "FabricMod",
           "artifact": {
             "size": 16176,
-            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/pv-addon-soundphysics-1.1.2.jar",
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/pv-addon-soundphysics-1.1.2.jar",
             "MD5": "11288e50e45acd4a8f463051c26840d8"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -514,6 +686,16 @@
           }
         },
         {
+          "id": "it.hurts.shatterbyte:shatterlib:0.6.0.5@jar",
+          "name": "ShatterLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 507730,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/ShatterLib-FABRIC-0.6.0.5+1.21.9.jar",
+            "MD5": "4edf144dfe5053d02fefa7a131cf46fd"
+          }
+        },
+        {
           "id": "com.misterpemodder:shulkerboxtooltip:5.2.12+1.21.9@jar",
           "name": "Shulker Box Tooltip",
           "type": "FabricMod",
@@ -532,11 +714,8 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2317360,
-            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/SnowUnderTrees-2.7.4+1.21.9.jar",
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/SnowUnderTrees-2.7.4+1.21.9.jar",
             "MD5": "85100ef4bfa9c53b0f4c715b065c4b55"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -565,11 +744,8 @@
           "type": "FabricMod",
           "artifact": {
             "size": 206479,
-            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/sound-physics-remastered-fabric-1.21.10-1.5.1.jar",
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/sound-physics-remastered-fabric-1.21.10-1.5.1.jar",
             "MD5": "473959c58eb7bf978c8f6ff77bfe93c7"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -583,13 +759,53 @@
           }
         },
         {
-          "id": "terrablender.core:terrablender:21.10.0.0@jar",
-          "name": "TerraBlender",
+          "id": "io.github.a5b84.statuseffectbars:status-effect-bars:1.0.9@jar",
+          "name": "Status Effect Bars",
           "type": "FabricMod",
           "artifact": {
-            "size": 342336,
-            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/TerraBlender-fabric-1.21.10-21.10.0.0.jar",
-            "MD5": "20b937b13a788b5a680ccf56fe1be8ff"
+            "size": 48726,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/status-effect-bars-1.0.9.jar",
+            "MD5": "ed78ee7bdc13ce23ddd0e8668d03d1ca"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.supermartijn642.configlib:supermartijn642configlib:1.1.8@jar",
+          "name": "SuperMartijn642's Config Lib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 206993,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/supermartijn642configlib-1.1.8-fabric-mc1.21.jar",
+            "MD5": "fff83455887d85c6f7ebac7bba24fa8f"
+          }
+        },
+        {
+          "id": "generated.fabricmod:ukulib:1.9.0+1.21.9@jar",
+          "name": "Ukulib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 466639,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/ukulib-1.9.0+1.21.9.jar",
+            "MD5": "66f4f6676409c93836335c7c9ad0f957"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "ru.berdinskiybear.armorhud:ukus-armor-hud:0.9.3+mc1.21.10@jar",
+          "name": "Uku's Armor HUD",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 44730,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionaloff/ukus-armor-hud-0.9.3+mc1.21.10.jar",
+            "MD5": "85d832888e79bc9f7256818e44585e37"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
