@@ -1,5 +1,5 @@
 {
-  "version": "1.1.3",
+  "version": "1.1.4",
   "rss": "https://felixgoff.github.io/MushroomsLifesteal/rss.xml",
   "servers": [
     {
@@ -162,6 +162,19 @@
           }
         },
         {
+          "id": "net.uku3lig:betterhurtcam:1.11.0+mc1.21.9@jar",
+          "name": "BetterHurtCam",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 34362,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/betterhurtcam-1.11.0+mc1.21.9.jar",
+            "MD5": "02a6774587ddc84aaf2026e60417840a"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "generated.fabricmod:bettermounthud:1.2.6@jar",
           "name": "Better Mount HUD",
           "type": "FabricMod",
@@ -169,6 +182,19 @@
             "size": 21069,
             "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/bettermounthud-1.2.6.jar",
             "MD5": "da173c6527e57f0b7a1db5a6fab42324"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.uku3lig:bettershields:1.8.0+mc1.21.9@jar",
+          "name": "BetterShields",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 35676,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/bettershieldsounds-1.8.0+mc1.21.9.jar",
+            "MD5": "ae2c967083e8bca519a187658de09791"
           },
           "required": {
             "value": false
@@ -537,6 +563,19 @@
           }
         },
         {
+          "id": "us.kenny:multi-key-bindings:1.1.0+1.21.10@jar",
+          "name": "Multi Key Bindings",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 30261,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/multi-key-bindings-1.1.0+1.21.10.jar",
+            "MD5": "d56270a764a585240bbc201a8389df3c"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.aizistral:nochatreports:1.21.10-v2.16.0@jar",
           "name": "No Chat Reports",
           "type": "FabricMod",
@@ -719,6 +758,19 @@
           }
         },
         {
+          "id": "io.github.startsmercury.simply_no_shading.impl.client.entrypoint:simply-no-shading:8.0.0-alpha.1+mc1.21.10@jar",
+          "name": "Simply No Shading",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 86452,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/simply-no-shading-8.0.0-alpha.1+mc1.21.10.jar",
+            "MD5": "4aa8c5826b1015dfcccaee35ef18fcb3"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "dev.imb11:snowundertrees:2.7.4+1.21.9@jar",
           "name": "Snow Under Trees",
           "type": "FabricMod",
@@ -789,6 +841,19 @@
             "size": 206993,
             "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/supermartijn642configlib-1.1.8-fabric-mc1.21.jar",
             "MD5": "fff83455887d85c6f7ebac7bba24fa8f"
+          }
+        },
+        {
+          "id": "net.uku3lig:totemcounter:1.10.0+mc1.21.9@jar",
+          "name": "TotemCounter",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 71004,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/optionalon/totemcounter-1.10.0+mc1.21.9.jar",
+            "MD5": "80ac02684509bb28479f5886e444d3cd"
+          },
+          "required": {
+            "value": false
           }
         },
         {
