@@ -1,5 +1,5 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "rss": "https://felixgoff.github.io/MushroomsLifesteal/rss.xml",
   "servers": [
     {
@@ -667,16 +667,6 @@
           }
         },
         {
-          "id": "pigcart.particlerain.loaders:particlerain:4.0.0-beta.3+1.21.9-fabric@jar",
-          "name": "Particle Rain",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 591623,
-            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/fabricmods/required/particlerain-4.0.0-beta.3+1.21.9-fabric.jar",
-            "MD5": "d532ffb5aaee3e123fde99be5596bdd7"
-          }
-        },
-        {
           "id": "com.leclowndu93150:particular:1.3.1@jar",
           "name": "Particular Reforged",
           "type": "FabricMod",
@@ -1025,9 +1015,9 @@
           "name": "particlerain.json",
           "type": "File",
           "artifact": {
-            "size": 14268,
+            "size": 14856,
             "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/files/config/particlerain.json",
-            "MD5": "6e0dc4120c9ac37749550bdb667c8066",
+            "MD5": "09385dbff9b54c49568f4d95d16cc9ed",
             "path": "config/particlerain.json"
           }
         }
