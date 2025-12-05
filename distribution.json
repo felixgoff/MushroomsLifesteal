@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "rss": "https://felixgoff.github.io/MushroomsLifesteal/rss.xml",
   "servers": [
     {
@@ -1018,6 +1018,17 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "particlerain.json",
+          "name": "particlerain.json",
+          "type": "File",
+          "artifact": {
+            "size": 14268,
+            "url": "https://felixgoff.github.io/MushroomsLifesteal/servers/MushroomLifesteal-1.21.10/files/config/particlerain.json",
+            "MD5": "6e0dc4120c9ac37749550bdb667c8066",
+            "path": "config/particlerain.json"
           }
         }
       ]

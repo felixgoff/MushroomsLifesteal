@@ -1,5 +1,5 @@
 {
-  "$schema": "file:///E:/MushroomLauncher/schemas/ServerMetaSchema.schema.json",
+  "$schema": "file:///C:/Users/felix.goff/MushroomsLifesteal/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.1",
     "name": "Mushrooms Lifesteal",
