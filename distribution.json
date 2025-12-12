@@ -1,5 +1,5 @@
 {
-  "version": "1.3.4",
+  "version": "1.3.5",
   "rss": "https://felixgoff.github.io/MushroomsLifesteal/rss.xml",
   "servers": [
     {
@@ -106,6 +106,19 @@
           ]
         },
         {
+          "id": "team.creative:ambientsounds:6.3.1@jar",
+          "name": "AmbientSounds",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 84821355,
+            "url": "https://raw.githubusercontent.com/felixgoff/MushroomsLifesteal/refs/heads/main/servers/MushroomLifesteal-1.21.11/fabricmods/optionalon/AmbientSounds_FABRIC_v6.3.1_mc1.21.11.jar",
+            "MD5": "72eb10abde47a4e5dd59d8daa5f5d008"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "squeek.appleskin:appleskin:3.0.7+mc1.21.11@jar",
           "name": "AppleSkin",
           "type": "FabricMod",
@@ -169,6 +182,16 @@
           }
         },
         {
+          "id": "team.creative:creativecore:2.14.9@jar",
+          "name": "CreativeCore",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1388750,
+            "url": "https://raw.githubusercontent.com/felixgoff/MushroomsLifesteal/refs/heads/main/servers/MushroomLifesteal-1.21.11/fabricmods/required/CreativeCore_FABRIC_v2.14.9_mc1.21.11.jar",
+            "MD5": "718b4c4cf3412efce78a54d7d707c02f"
+          }
+        },
+        {
           "id": "me.pieking1215.dripsounds:waterdripsound:0.5.2@jar",
           "name": "Drip Sounds",
           "type": "FabricMod",
@@ -179,6 +202,19 @@
           }
         },
         {
+          "id": "me.pieking1215.dripsounds:waterdripsound:0.5.2@jar",
+          "name": "Drip Sounds",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 57484,
+            "url": "https://raw.githubusercontent.com/felixgoff/MushroomsLifesteal/refs/heads/main/servers/MushroomLifesteal-1.21.11/fabricmods/optionalon/Drip%20Sounds-0.5.2+1.21.10-Fabric.jar",
+            "MD5": "661c60127b00bd919be413fb1d9abc25"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "net.lostluma.dynamic_fps.impl.textile.compat:dynamic_fps:3.11.0@jar",
           "name": "Dynamic FPS",
           "type": "FabricMod",
@@ -186,6 +222,19 @@
             "size": 196562,
             "url": "https://raw.githubusercontent.com/felixgoff/MushroomsLifesteal/refs/heads/main/servers/MushroomLifesteal-1.21.11/fabricmods/required/dynamic-fps-3.11.0+minecraft-1.21.9-fabric.jar",
             "MD5": "c50d088427c5aa2d6c39648593346b44"
+          }
+        },
+        {
+          "id": "generated.fabricmod:eg_particle_interactions:v0.9-fabric-mc1.21.11-rc3@jar",
+          "name": "Eg_particle_interactions",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 555122,
+            "url": "https://raw.githubusercontent.com/felixgoff/MushroomsLifesteal/refs/heads/main/servers/MushroomLifesteal-1.21.11/fabricmods/optionalon/eg_particle_interactions-v0.9-fabric-mc1.21.11-rc3.jar",
+            "MD5": "a0b448687a342f96e9781b67090206d5"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -296,6 +345,43 @@
             "size": 860358,
             "url": "https://raw.githubusercontent.com/felixgoff/MushroomsLifesteal/refs/heads/main/servers/MushroomLifesteal-1.21.11/fabricmods/required/lithium-fabric-0.21.0+mc1.21.11.jar",
             "MD5": "de3d2da8208487a3962e4fd5fbc38c2d"
+          }
+        },
+        {
+          "id": "net.tschipcraft:make_bubbles_pop:0.3.2-fabric@jar",
+          "name": "Make Bubbles Pop",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 30571,
+            "url": "https://raw.githubusercontent.com/felixgoff/MushroomsLifesteal/refs/heads/main/servers/MushroomLifesteal-1.21.11/fabricmods/optionalon/make_bubbles_pop-0.3.2-fabric-mc1.21.9-1.21.10.jar",
+            "MD5": "edec2cf40c09b781ea0c8b1dac013c50"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "fi.dy.masa:malilib:0.27.1@jar",
+          "name": "MaLiLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1564185,
+            "url": "https://raw.githubusercontent.com/felixgoff/MushroomsLifesteal/refs/heads/main/servers/MushroomLifesteal-1.21.11/fabricmods/required/malilib-fabric-1.21.11-0.27.1.jar",
+            "MD5": "767c6e27e17eb37ce1b16848e2c4a1b4"
+          }
+        },
+        {
+          "id": "fi.dy.masa:minihud:0.38.0@jar",
+          "name": "MiniHUD",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 864387,
+            "url": "https://raw.githubusercontent.com/felixgoff/MushroomsLifesteal/refs/heads/main/servers/MushroomLifesteal-1.21.11/fabricmods/optionaloff/minihud-fabric-1.21.11-0.38.0.jar",
+            "MD5": "5ee52013a3aebb024fdab12e373c6a52"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -502,6 +588,17 @@
             "size": 1870555,
             "url": "https://raw.githubusercontent.com/felixgoff/MushroomsLifesteal/refs/heads/main/servers/MushroomLifesteal-1.21.11/fabricmods/required/Zoomify-2.14.6+1.21.11.jar",
             "MD5": "5644d8b7b5ab70aa5b1187b36b08b9d5"
+          }
+        },
+        {
+          "id": "Fast Better Grass.zip",
+          "name": "Fast Better Grass.zip",
+          "type": "File",
+          "artifact": {
+            "size": 10927,
+            "url": "https://raw.githubusercontent.com/felixgoff/MushroomsLifesteal/refs/heads/main/servers/MushroomLifesteal-1.21.11/files/resourcepacks/Fast%20Better%20Grass.zip",
+            "MD5": "993062e9b7e38d34203d08b7699efd24",
+            "path": "resourcepacks/Fast Better Grass.zip"
           }
         }
       ]
