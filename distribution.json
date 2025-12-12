@@ -7,7 +7,7 @@
       "name": "Mushrooms Lifesteal",
       "description": "Lifesteal-Based Mushrooms Server",
       "icon": "https://raw.githubusercontent.com/felixgoff/MushroomsLifesteal/refs/heads/main/servers/MushroomLifesteal-1.21.11/bb6ddd42691d526fcec71880dfbd8a04.jpg",
-      "version": "1.0.1",
+      "version": "2.0.1",
       "address": "83.249.226.36:25565",
       "minecraftVersion": "1.21.11",
       "mainServer": true,
@@ -126,13 +126,13 @@
           }
         },
         {
-          "id": "com.ishland:c2me:0.3.6+alpha.0.36+1.21.11@jar",
+          "id": "com.ishland:c2me:0.3.6+beta.1.0+1.21.11@jar",
           "name": "Concurrent Chunk Management Engine",
           "type": "FabricMod",
           "artifact": {
-            "size": 4687414,
-            "url": "https://raw.githubusercontent.com/felixgoff/MushroomsLifesteal/refs/heads/main/servers/MushroomLifesteal-1.21.11/fabricmods/required/c2me-fabric-mc1.21.11-0.3.6+alpha.0.36.jar",
-            "MD5": "37bfac441b00bb8437177835a011fd7d"
+            "size": 4687421,
+            "url": "https://raw.githubusercontent.com/felixgoff/MushroomsLifesteal/refs/heads/main/servers/MushroomLifesteal-1.21.11/fabricmods/required/c2me-fabric-mc1.21.11-0.3.6+beta.1.0.jar",
+            "MD5": "6c043701b1c5cc7f1bd35239eaf678d9"
           }
         },
         {
@@ -219,6 +219,26 @@
           }
         },
         {
+          "id": "randommcsomethin.fallingleaves:fallingleaves:2.0.3@jar",
+          "name": "Falling Leaves",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 181268,
+            "url": "https://raw.githubusercontent.com/felixgoff/MushroomsLifesteal/refs/heads/main/servers/MushroomLifesteal-1.21.11/fabricmods/required/fallingleaves-2.0.3+1.21.11.jar",
+            "MD5": "f60fcec180500d8014ba7294b472e207"
+          }
+        },
+        {
+          "id": "me.fallenbreath:fastipping:1.0.8@jar",
+          "name": "Fast IP Ping",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 10375,
+            "url": "https://raw.githubusercontent.com/felixgoff/MushroomsLifesteal/refs/heads/main/servers/MushroomLifesteal-1.21.11/fabricmods/required/fast-ip-ping-v1.0.8-mc1.21.11-fabric.jar",
+            "MD5": "8fb376a8b030bd9cd5f9505793a2d3ea"
+          }
+        },
+        {
           "id": "generated.fabricmod:ferritecore:8.0.3@jar",
           "name": "FerriteCore",
           "type": "FabricMod",
@@ -296,6 +316,16 @@
             "size": 3573,
             "url": "https://raw.githubusercontent.com/felixgoff/MushroomsLifesteal/refs/heads/main/servers/MushroomLifesteal-1.21.11/fabricmods/required/morechathistory-1.3.1.jar",
             "MD5": "cd040faa8025103baf571a3ce15d4a8a"
+          }
+        },
+        {
+          "id": "ca.fxco:moreculling:1.6.0-beta.2@jar",
+          "name": "More Culling",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 341135,
+            "url": "https://raw.githubusercontent.com/felixgoff/MushroomsLifesteal/refs/heads/main/servers/MushroomLifesteal-1.21.11/fabricmods/required/moreculling-fabric-1.21.11-1.6.0-beta.2.jar",
+            "MD5": "31102a7b214617dae24b818c5a7f2a87"
           }
         },
         {
@@ -455,6 +485,16 @@
           }
         },
         {
+          "id": "generated.fabricmod:yosbr:0.1.2@jar",
+          "name": "YOSBR",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 17373,
+            "url": "https://raw.githubusercontent.com/felixgoff/MushroomsLifesteal/refs/heads/main/servers/MushroomLifesteal-1.21.11/fabricmods/required/yosbr-0.1.2.jar",
+            "MD5": "9fcce225f25b6fd17921c87ff1c720f1"
+          }
+        },
+        {
           "id": "dev.isxander:zoomify:2.14.6+1.21.11@jar",
           "name": "Zoomify",
           "type": "FabricMod",
@@ -462,17 +502,6 @@
             "size": 1870555,
             "url": "https://raw.githubusercontent.com/felixgoff/MushroomsLifesteal/refs/heads/main/servers/MushroomLifesteal-1.21.11/fabricmods/required/Zoomify-2.14.6+1.21.11.jar",
             "MD5": "5644d8b7b5ab70aa5b1187b36b08b9d5"
-          }
-        },
-        {
-          "id": "particlerain.json",
-          "name": "particlerain.json",
-          "type": "File",
-          "artifact": {
-            "size": 14268,
-            "url": "https://raw.githubusercontent.com/felixgoff/MushroomsLifesteal/refs/heads/main/servers/MushroomLifesteal-1.21.11/files/config/particlerain.json",
-            "MD5": "6e0dc4120c9ac37749550bdb667c8066",
-            "path": "config/particlerain.json"
           }
         }
       ]

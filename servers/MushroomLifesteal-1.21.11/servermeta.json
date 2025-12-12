@@ -1,7 +1,7 @@
 {
   "$schema": "file:///C:/Users/felix.goff/MushroomsLifesteal/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.1",
+    "version": "2.0.1",
     "name": "Mushrooms Lifesteal",
     "description": "Lifesteal-Based Mushrooms Server",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
