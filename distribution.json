@@ -1,5 +1,5 @@
 {
-  "version": "1.3.5",
+  "version": "1.3.6",
   "rss": "https://felixgoff.github.io/MushroomsLifesteal/rss.xml",
   "servers": [
     {
@@ -8,7 +8,7 @@
       "description": "Lifesteal-Based Mushrooms Server",
       "icon": "https://raw.githubusercontent.com/felixgoff/MushroomsLifesteal/refs/heads/main/servers/MushroomLifesteal-1.21.11/bb6ddd42691d526fcec71880dfbd8a04.jpg",
       "version": "2.0.1",
-      "address": "83.249.226.36:25565",
+      "address": "37.230.138.121:25567",
       "minecraftVersion": "1.21.11",
       "mainServer": true,
       "autoconnect": true,
