@@ -7,7 +7,7 @@
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
     "address": "37.230.138.121:25567",
     "mainServer": true,
-    "autoconnect": true
+    "autoconnect": false
   },
   "fabric": {
     "version": "0.18.2"
