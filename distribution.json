@@ -11,7 +11,7 @@
       "address": "37.230.138.121:25567",
       "minecraftVersion": "1.21.11",
       "mainServer": true,
-      "autoconnect": true,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.fabricmc:fabric-loader:0.18.2",
