@@ -1,5 +1,5 @@
 {
-  "version": "1.3.8",
+  "version": "1.3.9",
   "rss": "https://felixgoff.github.io/MushroomsLifesteal/rss.xml",
   "servers": [
     {
@@ -229,19 +229,6 @@
           }
         },
         {
-          "id": "me.pieking1215.dripsounds:waterdripsound:0.5.2@jar",
-          "name": "Drip Sounds",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 57484,
-            "url": "https://raw.githubusercontent.com/felixgoff/MushroomsLifesteal/refs/heads/main/servers/MushroomLifesteal-1.21.11/fabricmods/optionalon/Drip%20Sounds-0.5.2+1.21.10-Fabric.jar",
-            "MD5": "661c60127b00bd919be413fb1d9abc25"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "net.lostluma.dynamic_fps.impl.textile.compat:dynamic_fps:3.11.0@jar",
           "name": "Dynamic FPS",
           "type": "FabricMod",
@@ -355,6 +342,20 @@
           }
         },
         {
+          "id": "io.github.sjouwer:gammautils:2.5.10@jar",
+          "name": "Gamma Utils",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 102032,
+            "url": "https://raw.githubusercontent.com/felixgoff/MushroomsLifesteal/refs/heads/main/servers/MushroomLifesteal-1.21.11/fabricmods/optionaloff/Gamma-Utils-2.5.10+mc1.21.11.jar",
+            "MD5": "33c6204bd1ca7d72fc4ce8e0afe3c60a"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "software.bernie:geckolib:5.4-alpha-1@jar",
           "name": "GeckoLib 5",
           "type": "FabricMod",
@@ -375,6 +376,20 @@
           }
         },
         {
+          "id": "dlovin.inventoryhud:inventoryhud:3.4.29@jar",
+          "name": "Inventory HUD +",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 226047,
+            "url": "https://raw.githubusercontent.com/felixgoff/MushroomsLifesteal/refs/heads/main/servers/MushroomLifesteal-1.21.11/fabricmods/optionaloff/inventoryhud.fabric.1.21.11-3.4.29.jar",
+            "MD5": "7a6c3afc947402829185940ddf4781ec"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "generated.fabricmod:iris:1.10.2+mc1.21.11@jar",
           "name": "Iris",
           "type": "FabricMod",
@@ -382,6 +397,20 @@
             "size": 2793059,
             "url": "https://raw.githubusercontent.com/felixgoff/MushroomsLifesteal/refs/heads/main/servers/MushroomLifesteal-1.21.11/fabricmods/required/iris-fabric-1.10.2+mc1.21.11.jar",
             "MD5": "574a21ed35c3cfb92f1827a27819a0f3"
+          }
+        },
+        {
+          "id": "journeymap:journeymap:1.21.11-6.0.0-beta.53@jar",
+          "name": "Journeymap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3602533,
+            "url": "https://raw.githubusercontent.com/felixgoff/MushroomsLifesteal/refs/heads/main/servers/MushroomLifesteal-1.21.11/fabricmods/optionaloff/journeymap-fabric-1.21.11-6.0.0-beta.53.jar",
+            "MD5": "239d5647e555d9792cd51b8f1c1600d2"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
